@@ -1,0 +1,6 @@
+Decide pizza place
+Choose type of pizza
+decide on delicious extra toppings
+select decilious shake (or soda)
+add desserts
+call and place order
