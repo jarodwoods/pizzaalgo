@@ -4,3 +4,7 @@ decide on delicious extra toppings
 select decilious shake (or soda)
 add desserts
 call and place order
+    7a. pay at door
+    7b. pay over phone
+8. Answer door
+9. EAT PIZZA 
