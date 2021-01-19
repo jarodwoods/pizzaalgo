@@ -8,3 +8,4 @@ call and place order
     7b. pay over phone
 8. Answer door
 9. EAT PIZZA 
+10. Still hungry? See step 1
